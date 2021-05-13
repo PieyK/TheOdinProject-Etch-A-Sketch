@@ -1,3 +1,6 @@
-# TheOdinProject-Etch-A-Sketch
+# The Odin Project
+
+Project: Etch-A-Sketch 
 
 DOM Manipulation Exercise
+
